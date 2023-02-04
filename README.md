@@ -1,0 +1,2 @@
+# tersucgen
+Ters üçgen
